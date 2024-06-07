@@ -17,3 +17,11 @@ Software Requirements
     VS1053 library for the audio decoder
     WiFi library for internet connectivity
     SPI.h library for SPI communication
+
+## Schema Example
+
+![alt text](https://github.com/dominiks01/web-radio/blob/main/basics.png)
+
+## Photos
+
+![alt text](https://github.com/dominiks01/web-radio/blob/main/preview.jpg)
